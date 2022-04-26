@@ -1,0 +1,7 @@
+names:
+- Fighting
+- Running
+- Snatching
+nc: 3
+train: FYP-4/train/images
+val: FYP-4/valid/images
